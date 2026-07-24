@@ -2,99 +2,45 @@
 
 ## About Me
 
-I am a Master's student in Internet of Things with academic and research experience in machine learning, deep learning, computer vision, audio classification, edge AI, data analytics, software testing, and CI/CD.
+I am an MSc Internet of Things student with experience in machine learning, computer vision, edge AI, IoT, data analytics, software testing, and CI/CD.
 
-I am currently working as a part-time Researcher at the University of Tartu, where I develop and evaluate PyTorch-based image-classification pipelines for agricultural remote-sensing research.
-
-My projects include audio classification, Leaf Angle Distribution classification, medical image classification, IoT sensor analytics, on-device OCR, and software quality engineering.
-
-## Current Focus
-
-- Machine Learning and Deep Learning
-- Audio Classification and Signal Processing
-- Computer Vision
-- Edge AI and IoT
-- Model Evaluation and Optimisation
-- Applied AI Research
-- Software Testing and CI/CD
+I currently work as a part-time Researcher at the University of Tartu, developing PyTorch-based image-classification pipelines for agricultural remote-sensing research.
 
 ## Technical Skills
 
-### Programming
-
-Python, C++, SQL, Java, JavaScript, HTML, CSS
-
-### Machine Learning
-
-PyTorch, TensorFlow Lite, CNNs, Transfer Learning, Data Augmentation, Model Evaluation, Quantisation
-
-### Data Analysis
-
-Pandas, NumPy, Excel, SQL, Data Cleaning, Data Visualisation
-
-### IoT and Edge AI
-
-MQTT, Raspberry Pi, SQLite, Streamlit, Tesseract OCR
-
-### Software Quality and DevOps
-
-JUnit, Maven, JaCoCo, GitHub Actions, Docker, CI/CD, Code Coverage, Unit Testing
-
-### Tools
-
-Google Colab, MATLAB, Visual Studio, VS Code, Git and GitHub
+**Programming:** Python, Java, C++, SQL, JavaScript  
+**Machine Learning:** PyTorch, TensorFlow Lite, CNNs, Transfer Learning, Model Evaluation  
+**Data Analytics:** Pandas, NumPy, SQL, Excel, Matplotlib, Streamlit  
+**IoT & Edge AI:** MQTT, Raspberry Pi, SQLite, Tesseract OCR  
+**Testing & DevOps:** JUnit, Maven, JaCoCo, GitHub Actions, Docker, CI/CD, Git
 
 ## Featured Projects
 
-### 🎵 AI-Based Audio Classification and Edge Optimisation
-
-Developed an audio-classification pipeline involving signal preprocessing, CNN training, model evaluation, TensorFlow Lite conversion, integer quantisation, and edge-device optimisation.
-
 ### 🌿 Leaf Angle Distribution Classification
+PyTorch-based agricultural image-classification research involving preprocessing, augmentation, training, validation, confusion matrices, and per-class error analysis.
 
-Developed a PyTorch-based image-classification pipeline using agricultural imagery for Leaf Angle Distribution research. The project includes preprocessing, augmentation, training, validation, confusion-matrix analysis, and per-class error evaluation.
+### 🎵 Audio Classification and Edge Optimisation
+Built an audio-classification pipeline with CNN training, TensorFlow Lite conversion, quantisation, and edge-device optimisation.
 
 ### 🧠 Parkinson's Disease Classification
-
-Built a CNN-based medical image-classification model using data augmentation, class-weighted training, and performance evaluation to address class imbalance and improve classification reliability.
-
-### 👓 IoT Smart Glasses
-
-Created a Raspberry Pi and Python prototype for on-device OCR using Tesseract and live camera input, enabling text extraction without cloud processing.
+Developed a CNN-based medical image-classification model using augmentation, class-weighted training, and performance evaluation.
 
 ### 📊 IoT Sensor Data Analytics Dashboard
+Built a real-time IoT analytics dashboard using Python, MQTT, SQLite, Pandas, and Streamlit.
 
-Built a real-time IoT analytics pipeline using Python, MQTT, SQLite, Pandas, and Streamlit. The dashboard displays sensor KPIs, historical trends, and rule-based anomaly alerts.
-
-### 🧪 Software Quality Engineering for Apache Commons Codec
-
-Applied modern software testing and DevOps practices to the Apache Commons Codec open-source library.
-
-Key work included:
-
-- Analysing the existing JUnit test suite
-- Identifying untested code paths and coverage gaps
-- Implementing additional unit tests for edge cases and boundary conditions
-- Measuring code coverage using JaCoCo
-- Automating builds and tests using GitHub Actions
-- Configuring CI/CD workflows
-- Containerising the testing environment using Docker
-- Generating coverage and software-quality reports
-- Documenting testing results and improvement recommendations
-
-**Technologies:** Java, JUnit, Maven, JaCoCo, GitHub Actions, Docker, CI/CD
+### 🧪 Software Quality Engineering
+Applied JUnit, JaCoCo, GitHub Actions, Docker, Maven, and CI/CD practices to the Apache Commons Codec project.
 
 ## Research Experience
 
-### Researcher — University of Tartu
+**Researcher — University of Tartu**
 
-- Developed an end-to-end PyTorch image-classification pipeline
-- Conducted preprocessing, augmentation, training, validation, and error analysis
-- Evaluated models using confusion matrices and class-level performance metrics
-- Presented research results and technical findings to supervisors and stakeholders
+- Developed end-to-end PyTorch image-classification pipelines
+- Conducted preprocessing, training, validation, and error analysis
+- Presented research results to supervisors and stakeholders
 
-## Let's Connect
+## Connect With Me
 
-- LinkedIn: [linkedin.com/in/nighat-shaheen](https://linkedin.com/in/nighat-shaheen)
-- GitHub: [github.com/NighatShaheen](https://github.com/NighatShaheen)
-- Email: [nighat2414@gmail.com](mailto:nighat2414@gmail.com)
+- [LinkedIn](https://linkedin.com/in/nighat-shaheen)
+- [GitHub](https://github.com/NighatShaheen)
+- [Email](mailto:nighat2414@gmail.com)
