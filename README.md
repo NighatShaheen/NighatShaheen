@@ -1,46 +1,51 @@
 # Hi, I'm Nighat Shaheen 👋
 
-## About Me
+🎓 MSc Computer Science (Internet of Things) | University of Salerno, Italy  
+🔬 Part-time Researcher | University of Tartu (EST-LEAF Project)
 
-I am an MSc Internet of Things student with experience in machine learning, computer vision, edge AI, IoT, data analytics, software testing, and CI/CD.
+I'm passionate about building intelligent systems that combine **Machine Learning, Computer Vision, IoT, and Software Engineering**. Alongside AI research, I enjoy developing reliable software using modern testing, automation, and DevOps practices.
 
-I currently work as a part-time Researcher at the University of Tartu, developing PyTorch-based image-classification pipelines for agricultural remote-sensing research.
+## 💻 Technical Skills
 
-## Technical Skills
+**Languages:** Python • Java • C++ • SQL • JavaScript • HTML • CSS
 
-**Programming:** Python, Java, C++, SQL, JavaScript  
-**Machine Learning:** PyTorch, TensorFlow Lite, CNNs, Transfer Learning, Model Evaluation  
-**Data Analytics:** Pandas, NumPy, SQL, Excel, Matplotlib, Streamlit  
-**IoT & Edge AI:** MQTT, Raspberry Pi, SQLite, Tesseract OCR  
-**Testing & DevOps:** JUnit, Maven, JaCoCo, GitHub Actions, Docker, CI/CD, Git
+**Machine Learning & AI:** PyTorch • TensorFlow Lite • CNNs • Transfer Learning • Computer Vision • Data Augmentation • Model Evaluation
 
-## Featured Projects
+**Data Analytics:** Pandas • NumPy • SQL • Matplotlib • Streamlit • Data Visualization
 
-### 🌿 Leaf Angle Distribution Classification
-PyTorch-based agricultural image-classification research involving preprocessing, augmentation, training, validation, confusion matrices, and per-class error analysis.
+**IoT & Edge AI:** MQTT • Raspberry Pi • SQLite • Tesseract OCR
 
-### 🎵 Audio Classification and Edge Optimisation
-Built an audio-classification pipeline with CNN training, TensorFlow Lite conversion, quantisation, and edge-device optimisation.
+**Software Engineering:** Java • Maven • JUnit • JaCoCo • Git • GitHub • GitHub Actions • Docker • CI/CD • Unit Testing • Code Coverage
 
-### 🧠 Parkinson's Disease Classification
-Developed a CNN-based medical image-classification model using augmentation, class-weighted training, and performance evaluation.
+## 🚀 Featured Projects
+
+### 🌿 Leaf Angle Distribution Research
+Developed an end-to-end PyTorch pipeline for agricultural image classification as part of the University of Tartu's EST-LEAF research project.
 
 ### 📊 IoT Sensor Data Analytics Dashboard
-Built a real-time IoT analytics dashboard using Python, MQTT, SQLite, Pandas, and Streamlit.
+Designed a real-time analytics dashboard using Python, MQTT, SQLite, Pandas, and Streamlit for sensor monitoring and anomaly detection.
 
-### 🧪 Software Quality Engineering
-Applied JUnit, JaCoCo, GitHub Actions, Docker, Maven, and CI/CD practices to the Apache Commons Codec project.
+### 🧪 Software Quality Engineering – Apache Commons Codec
+Applied software testing and DevOps practices using JUnit, JaCoCo, Docker, Maven, and GitHub Actions to improve testing automation and code quality.
 
-## Research Experience
+### 🧠 Parkinson's Disease Classification
+Built a CNN-based medical image classification model using transfer learning and performance optimization.
 
-**Researcher — University of Tartu**
+### 🎵 AI Audio Classification
+Developed an embedded audio classification pipeline with TensorFlow Lite for efficient edge-device deployment.
 
-- Developed end-to-end PyTorch image-classification pipelines
-- Conducted preprocessing, training, validation, and error analysis
-- Presented research results to supervisors and stakeholders
+### 👓 Smart Glasses for OCR
+Created a Raspberry Pi–based wearable system for real-time text recognition using Tesseract OCR.
 
-## Connect With Me
+## 🌱 Currently Learning
 
-- [LinkedIn](https://linkedin.com/in/nighat-shaheen)
-- [GitHub](https://github.com/NighatShaheen)
-- [Email](mailto:nighat2414@gmail.com)
+- MLOps
+- Explainable AI (XAI)
+- Vision Transformers (ViTs)
+- Cloud-based AI Deployment
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/nighat-shaheen
+- GitHub: https://github.com/NighatShaheen
+- Email: nighat2414@gmail.com
